@@ -2,7 +2,7 @@
 <p align='center'>
 </p>
 
-![Profile views](https://visitor-badge.glitch.me/badge?page_id=claudioscarpafilho.claudioscarpafilho)
+![visitors](https://vbr.wocr.tk/badge?page_id=claudioscarpafilho.claudioscarpafilho&color=00cf00)
 [![Github](https://img.shields.io/github/followers/claudioscarpafilho?label=Follow&style=social)](https://github.com/claudioscarpafilho)
 
 <div size='25px'>Faaaaaala Devs! Meu nome é Claudio Scarpa Filho. Sou de São Paulo/SP, tenho 34 anos e trabalho com tecnologia desde os 14.</div>
