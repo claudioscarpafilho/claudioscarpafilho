@@ -20,5 +20,5 @@
 <img src="https://skillicons.dev/icons?i=git,github,linux,nginx,wordpress" />
  
 <h2> GitHub Stats </h2>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claudioscarpafilho&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+<div>[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=claudioscarpafilho&count_private=true)](https://github.com/claudioscarpafilho/github-readme-stats)</div>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=claudioscarpafilho&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Claudio's GitHub Stats" />
