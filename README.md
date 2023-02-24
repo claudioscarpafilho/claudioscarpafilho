@@ -21,6 +21,6 @@
  
 <h2> GitHub Stats </h2>
  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=claudioscarpafilho&count_private=true&include_all_commits=true&theme=aura)]
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=claudioscarpafilho&count_private=true&include_all_commits=true&theme=aura)
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=claudioscarpafilho&count_private=true&include_all_commits=true&theme=aura)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=claudioscarpafilho&count_private=true&include_all_commits=true&theme=aura)
