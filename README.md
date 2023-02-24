@@ -19,11 +19,6 @@
 <img src="https://skillicons.dev/icons?i=mysql,redis,mongodb" />
 <img src="https://skillicons.dev/icons?i=git,github,linux,nginx,wordpress" />
  
-<br>
-<br>
-<br> 
- 
-<div>
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claudioscarpafilho&layout=compact&langs_count=5&theme=dracula"/>
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=claudioscarpafilho&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+<h2> GitHub Stats </h2>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claudioscarpafilho&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=claudioscarpafilho&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Claudio's GitHub Stats" />
